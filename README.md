@@ -1,4 +1,3 @@
-"# seed-to-privatre" 
 Create txt files and name them "mnemonics.txt" and "pkeys.txt", place your seeds to the first one
 
 npm i
